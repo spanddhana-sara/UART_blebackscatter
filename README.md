@@ -9,7 +9,10 @@ This project leverages the BeagleBone’s PRU to backscatter BLE advertisements,
 
 <h3><strong>Features</strong></h3>
 * PRU-based backscatter BLE advertisements using UART input.
+
 * BLE advertisement repetition for robust communication.
+  
 * Configurable MAC address and UART settings.
+  
 * Real-time BLE advertisement transmission based on incoming serial data.
 
